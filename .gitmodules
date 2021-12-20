@@ -19,6 +19,3 @@
 [submodule "third_party/glslang"]
 	path = third_party/glslang
 	url = https://github.com/KhronosGroup/glslang.git
-[submodule "third_party/git-hooks"]
-	path = third_party/git-hooks
-	url = https://swiftshader.googlesource.com/git-hooks
